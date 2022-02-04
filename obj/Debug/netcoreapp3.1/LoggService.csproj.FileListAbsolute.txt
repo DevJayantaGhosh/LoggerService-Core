@@ -1,0 +1,10 @@
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\bin\Debug\netcoreapp3.1\LoggService.deps.json
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\bin\Debug\netcoreapp3.1\LoggService.dll
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\bin\Debug\netcoreapp3.1\LoggService.pdb
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.AssemblyInfoInputs.cache
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.AssemblyInfo.cs
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.csproj.CoreCompileInputs.cache
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.dll
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.pdb
+C:\Users\JAYANTA GHOSH\Desktop\TechHowdy\CMSProjectSolutionByJG\LoggService\obj\Debug\netcoreapp3.1\LoggService.csproj.AssemblyReference.cache
